@@ -42,7 +42,7 @@ uma oportunidade de estágio na área de tecnologia da informação.
  
 ## 
 
- <i> A magical universe can be born from small ideas! ⭐️</i> <br> <br>
+ <i> Dias bons se tornam boas memorias, dias ruins se tornam boas histórias ⭐️</i> <br> <br>
  <img src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/Fire-Pixel.gif" width="220">
 
 ##
