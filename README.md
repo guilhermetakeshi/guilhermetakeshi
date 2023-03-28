@@ -3,9 +3,9 @@
     
 <h6> 💫 #python, #computação, #games, #ads e #tecnologia </h6>
 
-- 🔭 Atualmente estou tentando entrar na área de programação
-- 🌱 Atualmente estou focando em aprender Python e PostgreSQL/MySQL
-- 📫 Contate me no e-mail: guitakeshi.jp1@hotmail.com
+- 🔭 Atualmente busco entrar na área de programação
+- 🌱 Atualmente estou focado em aprender Python e PostgreSQL/MySQL
+- 📫 Contate-me no e-mail: guitakeshi.jp1@hotmail.com
 - ⚡ Estudante do 2° semestre de Análise e Desenvolvimento de Sistemas na
 Universidade de Braz Cubas no período noturno. Cursei ainda três semestres
 de Mecatrônica Industrial pelo IFSP (Instituto Federal de Educação, Ciência e
