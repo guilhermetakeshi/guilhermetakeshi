@@ -46,7 +46,3 @@ uma oportunidade de estágio na área de tecnologia da informação.
  <img src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/Fire-Pixel.gif" width="220">
 
 ##
-  
- 
-
-
