@@ -16,31 +16,22 @@ uma oportunidade de estágio na área de tecnologia da informação.
 ##
 
 <h3> 📚 Github Stats: <br></h3>
-  
-<div>
-  <a href="https://github.com/guilhermetakeshi"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=guilhermetakeshi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermetakeshi&layout=compact&langs_count=16&theme=tokyonight"/>
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,py,postgres,vscode" />
-      </a>
-    </p>
 
-  
-  | ! | ! | ! |
+<!-- GitHub Stats -->
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermetakeshi&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guilhermetakeshi&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guilhermetakeshi&theme=nord_dark) |
 | :-: | :-: | :-: |
-| ! | ! |
-| :-: | :-: |
-</div>
 
+<!-- Profile Details and Streak Stats -->
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermetakeshi&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=guilhermetakeshi&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
 <br>
-  
-<div align="center" style="display: inline_block">
-  <img align="center" alt="Ally-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
-  <img align="center" alt="Ally-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ally-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+
+<!-- Skills Icon -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,py,postgres,vscode" />
+  </a>
+</p>
 
 <h3> 🌐 Redes Sociais: <br></h3>
 
