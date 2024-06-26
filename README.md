@@ -6,12 +6,8 @@
 - 🔭 Atualmente busco entrar na área de programação
 - 🌱 Atualmente estou focado em aprender Python e PostgreSQL/MySQL
 - 📫 Contate-me no e-mail: guitakeshi.jp1@hotmail.com
-- ⚡ Estudante do 3° semestre de Análise e Desenvolvimento de Sistemas na
-Universidade de Braz Cubas no período noturno. Cursei ainda três semestres
-de Mecatrônica Industrial pelo IFSP (Instituto Federal de Educação, Ciência e
-Tecnologia) e cinco semestres de Licenciatura em Matemática pelo IFSP.
-Possuo experiência no setor de atendimento ao cliente e comercial. Busco
-uma oportunidade de estágio na área de tecnologia da informação.
+- ⚡ Formado em Análise e Desenvolvimento de Sistemas pela Universidade de Braz Cubas. Cursei ainda três semestres de Mecatrônica Industrial pelo IFSP (Instituto Federal de Educação, Ciência e Tecnologia) e cinco semestres de Licenciatura em Matemática pelo IFSP.
+Possuo experiência no setor de atendimento ao cliente e comercial. Busco uma oportunidade na área de tecnologia da informação e BI.
 
 ##
 
