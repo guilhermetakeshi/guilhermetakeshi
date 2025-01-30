@@ -3,11 +3,11 @@
     
 <h6> 💫 #python, #computação, #games, #ads e #tecnologia </h6>
 
-- 🔭 Atualmente busco entrar na área de programação
+- 🔭 Analista de B.I Júnior na Empiricus
 - 🌱 Atualmente estou focado em aprender Python e PostgreSQL/MySQL
 - 📫 Contate-me no e-mail: guitakeshi.jp1@hotmail.com
 - ⚡ Formado em Análise e Desenvolvimento de Sistemas pela Universidade de Braz Cubas. Cursei ainda três semestres de Mecatrônica Industrial pelo IFSP (Instituto Federal de Educação, Ciência e Tecnologia) e cinco semestres de Licenciatura em Matemática pelo IFSP.
-Possuo experiência no setor de atendimento ao cliente e comercial. Busco uma oportunidade na área de tecnologia da informação e BI.
+Possuo experiência no setor de atendimento ao cliente e comercial.
 
 ##
 
